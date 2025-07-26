@@ -53,5 +53,5 @@ Data was preprocessed using Power Query in Power BI. The following transformatio
 |------------------------|----------------------------------------|
 | `Dashboard.png`         | Snapshot of the final dashboard        |
 | `project_description.md`| Full explanation of project insights   |
-| `PowerBI_Report.pbix`   | (Optional) Report file for Power BI    |
-| `reservations-1.csv` | Sample cleaned dataset     |
+| `Project Dashboard.pbix`   |  Report file for Power BI    |
+| `reservations-1.xlsx` | Sample cleaned dataset     |
