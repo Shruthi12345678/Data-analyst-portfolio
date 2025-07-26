@@ -9,4 +9,4 @@
 - Statistical Analysis
 
 ## 📫 Contact
-📧 shruthialvale@gmail.com | 🌐 [LinkedIn]([www.linkedin.com/in/shruthilaya-alvale-6b25b5232])
+📧 shruthialvale@gmail.com 
