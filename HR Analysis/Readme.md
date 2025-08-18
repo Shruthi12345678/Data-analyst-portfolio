@@ -26,7 +26,7 @@ The dashboard helps HR teams analyze workforce demographics, attrition patterns,
 ---
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](./your-dashboard-image.png)
+![HR Analytics Dashboard](./Dashboard.png)
 
 ---
 
