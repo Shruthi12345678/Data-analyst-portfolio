@@ -4,6 +4,7 @@
 
 ## 🛠️ Skills
 - Excel, SQL, Power BI, Tableau
+- Machine Learning
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Data Cleaning & Visualization
 - Statistical Analysis
