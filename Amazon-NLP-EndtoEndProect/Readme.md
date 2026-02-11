@@ -126,7 +126,7 @@ The insights were visualized in a 3-page interactive dashboard.
 ![Overview Dashboard](Overview.png)
 
 ### Sentiment Analysis Page
-![Sentiment Dashboard](Sentiment_Analysis)
+![Sentiment Dashboard](Sentiment_Analysis.png)
 
 ### Keyword Insights Page
 ![Keyword Dashboard](Keyword_Insights.png)
