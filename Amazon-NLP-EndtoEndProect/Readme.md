@@ -123,7 +123,7 @@ The insights were visualized in a 3-page interactive dashboard.
 ## Dashboard Preview
 
 ### Overview Page
-![Overview Dashboard](images/dashboard_overview.png)
+![Overview Dashboard](Overview.png)
 
 ### Sentiment Analysis Page
 ![Sentiment Dashboard](images/dashboard_sentiment.png)
