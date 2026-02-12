@@ -82,7 +82,7 @@ Models tested:
 - Random Forest
 
 Best model accuracy:
-**82%**
+**99%**
 
 This performance is strong for a classical NLP pipeline.
 
@@ -159,6 +159,38 @@ The insights were visualized in a 3-page interactive dashboard.
 - Negative reviews are significantly longer, indicating detailed complaints.
 - Product reliability and battery issues are major customer pain points.
 - Usability and value for money drive positive sentiment.
+
+
+---
+
+## Streamlit Web App
+
+A lightweight web application was built using **Streamlit** to demonstrate real-time sentiment prediction.
+
+Users can enter any Amazon product review and instantly receive a sentiment prediction powered by the trained Machine Learning model.
+
+### App Features
+- Text input for new customer reviews
+- Real-time NLP preprocessing
+- Binary sentiment prediction (Positive / Negative)
+- Uses the trained TF-IDF + Random Forest model
+
+### Why a Binary Model?
+The dashboard uses **3-class sentiment** (Positive / Neutral / Negative) for analysis.
+
+However, the deployed app uses **Binary Sentiment (Positive vs Negative)** to:
+- Improve prediction reliability
+- Handle class imbalance
+- Provide clearer real-time decision support
+
+This mirrors real-world production systems where neutral feedback is typically not actionable.
+
+---
+
+## App Preview
+
+![Streamlit App](images/streamlit_app.png)
+
 
 ---
 
