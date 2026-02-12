@@ -189,13 +189,12 @@ This mirrors real-world production systems where neutral feedback is typically n
 
 ## App Preview
 
-![Streamlit App](images/streamlit_app.png)
+![Streamlit App](Streamlit_UI.png)
 
 
 ---
 
 ## Future Improvements
-- Deploy model using Streamlit web app
 - Try Transformer models (BERT) for higher accuracy
 - Add time-series sentiment tracking
 
